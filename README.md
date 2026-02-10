@@ -54,7 +54,7 @@ NEO4J_USERNAME="neo4j"
 NEO4J_PASSWORD="sua_senha_neo4j_aqui"
 ```
 
-> **Importante:** Nunca suba o arquivo `.env` para repositórios públicos (GitHub/GitLab), pois ele contém senhas sensíveis.
+> **Importante:** Nunca compartilhe o arquivo `.env`, pois ele contém senhas sensíveis.
 
 ## ▶️ Como Rodar
 
