@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-neo4j
+langchain-text-splitters
+numpy
+scikit-learn
+nltk
+neo4j
+ipykernel
+python-dotenv
